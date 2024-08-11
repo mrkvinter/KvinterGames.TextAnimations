@@ -1,0 +1,6 @@
+{
+  "name": "KvintessentialGames",
+  "references": [
+    "Unity.TextMeshPro"
+  ]
+}
