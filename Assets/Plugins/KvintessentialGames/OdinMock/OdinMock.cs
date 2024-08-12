@@ -1,5 +1,5 @@
 #if !ODIN_INSPECTOR
-namespace KvintessentialGames.OdinMock
+namespace Sirenix.OdinInspector
 {
     public class ShowInInspectorAttribute : System.Attribute
     {

@@ -1,4 +1,4 @@
-using KvintessentialGames.OdinMock;
+using Sirenix.OdinInspector;
 using UnityEngine;
 
 namespace KvintessentialGames.TextAnimations
