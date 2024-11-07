@@ -52,5 +52,6 @@ namespace KvintessentialGames.TextAnimations
 
         public Dictionary<BaseTextAnimation, Vector3> PositionAdditionalData; 
         public Dictionary<BaseTextAnimation, float> RotationAdditionalData;
+        public Dictionary<BaseTextAnimation, float> FloatParamAdditionalData;
     }
 }
